@@ -1,0 +1,19 @@
+#school-name{
+    text-align: center;
+}
+
+.heading{
+    text-align: center;
+}
+
+#election-menu{
+    text-align: center;
+}
+
+.emenu{
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
